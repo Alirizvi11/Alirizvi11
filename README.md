@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
 
-- 👨‍💻 All of my projects are available at [https://ali-portfolio-full.vercel.app/](https://ali-portfolio-full.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ali-portfolio-full.vercel.app/)
 
 - 💬 Ask me about **Oracle Dba , OCI**
 
 - 📫 How to reach me **the.er.alirizvi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/starred](https://drive.google.com/drive/starred)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/starred)
 
 - ⚡ Fun fact **🛠 I build dApps faster than npm can throw errors. 🧵 My code is modular, my demos are polished, and my bugs fear me.🧪 I treat hackathons like boss battles. Every demo is a final form.🧑‍🚀 I don’t just build projects—I launch them with animation, branding, and swagger.🧰 My GitHub is a toolbox, not a graveyard. Every repo has a purpose.🧠 I don’t chase perfection—I ship impact. 🧠 My README files are judge-ready. My comments are mentor-friendly.**
 
