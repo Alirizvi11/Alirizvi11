@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Oracle Dba & Oracle Cloud Infrastructure With AI**
 
-- 👯 I’m looking to collaborate on [flutter.FH2019](https://github.com/jaasaria/flutter.FH2019)
+- 👯 I’m looking to collaborate on [CivicLedgerProject](https://github.com/Alirizvi11/CivicLedgerProject)
 
 - 🤝 I’m looking for help with [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
 
