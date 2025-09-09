@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ali Rizvi</h1>
 <h3 align="center">🚀 Oracle DBA | Web3 Developer | Backend Architect from India 🇮🇳</h3>
 
+<img align="right" alt="Coding" width="350" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/3079099-Coding-coding-coding)">
+
+- 🚀 I’ve built **CivicLedgerProject (Public Sector App)**, **BookVault LMS (Genre-Aware Dashboard)**, and **HospitalMgmtSystem (Python + Oracle DB)**  
+- 🌱 Currently mastering **Oracle DBA, OCI**, and evolving into a **Workflow Architect**  
+- 🤝 Open to collaborating on **Hackathon-Ready Projects**, **Public Sector Innovation**, and **Open Source Automation**  
+- 💬 Ask me about **Flask Backends, Oracle Integration, GitHub Branding, and Repo Automation**  
+- 📬 Reach me at **[the.er.alirizvi@gmail.com](mailto:the.er.alirizvi@gmail.com)**  
+- 🏆 **Point of Contact (Team Lead)** for **Avalanche Hackathon Team1** | Aptos Pune Hackathon **Top 5% Coder**
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliRizvi11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
