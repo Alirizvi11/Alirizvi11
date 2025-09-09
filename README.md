@@ -24,6 +24,25 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/starred)
 
 - ⚡ Fun fact **🛠 I build dApps faster than npm can throw errors. 🧵 My code is modular, my demos are polished, and my bugs fear me.🧪 I treat hackathons like boss battles. Every demo is a final form.🧑‍🚀 I don’t just build projects—I launch them with animation, branding, and swagger.🧰 My GitHub is a toolbox, not a graveyard. Every repo has a purpose.🧠 I don’t chase perfection—I ship impact. 🧠 My README files are judge-ready. My comments are mentor-friendly.**
+---
+
+<h3 align="left">📈 GitHub Contribution Highlights</h3>
+
+📊 **GitHub Activity Summary**  
+- 🟩 Total Contributions (Last 12 Months): **3,722**  
+- 🔥 Longest Streak: **27 days**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AliRizvi11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&fire=DD2727&ring=DD2727&currStreakLabel=🔥%20Current%20Streak&sideLabels=📆%20Longest%20Streak%20|%20Total%20Contributions&sideNums=27%20days%20|%203722" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AliRizvi11&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRizvi11&theme=github_dark" alt="Profile Summary" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +61,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirizvi11&show_icons=true&locale=en" alt="alirizvi11" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AliRizvi11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&fire=DD2727&ring=DD2727&currStreakLabel=🔥%20Current%20Streak&sideLabels=📆%20Longest%20Streak%20|%20Total%20Contributions&sideNums=27%20days%20|%203722" alt="GitHub Streak" />
+
 </p>
 
