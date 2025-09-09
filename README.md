@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Rizvi</h1>
 <h3 align="center">🚀 Oracle DBA | Web3 Developer | Backend Architect from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Ali Coding" width="350" src="https://raw.githubusercontent.com/AirAviti1/AirAviti1/main/original-55c8e5b6e371a02a386655c53b4908f6.gif">
+
 
 - 🚀 I’ve built **CivicLedgerProject (Public Sector App)**, **BookVault LMS (Genre-Aware Dashboard)**, and **HospitalMgmtSystem (Python + Oracle DB)**  
 - 🌱 Currently mastering **Oracle DBA, OCI**, and evolving into a **Workflow Architect**  
