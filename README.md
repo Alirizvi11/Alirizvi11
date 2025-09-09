@@ -92,3 +92,6 @@
 https://github-readme-stats.vercel.app/api?username=alirizvi11&show_icons=true&locale=en&count_private=true
 " alt="GitHub Stats" />
 </p>
+<p align="Right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizvi11&theme=dark&hide_border=true" alt="Streaks"/>
+
