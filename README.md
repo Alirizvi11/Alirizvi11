@@ -42,16 +42,26 @@
 ### 🥇 GSSOC & Hackathon Badges
 
 <h3 align="center">🚀 My Open Source Journey</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GSSOC'24-Participant-orange?style=for-the-badge&logo=github" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+   <img src="https://img.shields.io/badge/GSSOC'24-Participant-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Hackathon-Top%205%25-blue?style=for-the-badge&logo=hackerrank" />
   <img src="https://img.shields.io/badge/Oracle-DBA-red?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/Web3-Builder-purple?style=for-the-badge&logo=ethereum" />
   <img src="https://img.shields.io/badge/Backend%20Architect-Flask%20%7C%20Oracle-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Workflow%20Automator-Git%20%7C%20Node.js-yellow?style=for-the-badge&logo=git" />
-</p>
-
+</div>
 ---
 
 ### 💼 Projects & Portfolio
