@@ -55,13 +55,14 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-   <img src="https://img.shields.io/badge/GSSOC'24-Participant-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Hackathon-Top%205%25-blue?style=for-the-badge&logo=hackerrank" />
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSOC-2024-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hackathon-Winner-blue?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Oracle-DBA-red?style=for-the-badge&logo=oracle" />
-  <img src="https://img.shields.io/badge/Web3-Builder-purple?style=for-the-badge&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Backend%20Architect-Flask%20%7C%20Oracle-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Workflow%20Automator-Git%20%7C%20Node.js-yellow?style=for-the-badge&logo=git" />
-</div>
+</p>
 ---
 
 ### 💼 Projects & Portfolio
