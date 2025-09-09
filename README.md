@@ -1,47 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ali Rizvi</h1>
-<h3 align="center">A passionate Oracle DBA With Proficient in Web3 Development & Block Chain from India.</h3>
+<h3 align="center">🚀 Oracle DBA | Web3 Developer | Backend Architect from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alirizvi11&label=Profile%20views&color=0e75b6&style=flat" alt="alirizvi11" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alirizvi11&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/alirizvi9936" target="blank">
-    <img src="https://img.shields.io/twitter/follow/alirizvi9936?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AliRizvi11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🏆 GitHub Trophies
 
-- 🔭 I’m currently working on [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
-- 🌱 Learning **Oracle DBA & Oracle Cloud Infrastructure With AI**
-- 👯 Collaborating on [CivicLedgerProject](https://github.com/Alirizvi11/CivicLedgerProject)
-- 🤝 Seeking help with [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
-- 👨‍💻 All my projects: [Portfolio](https://ali-portfolio-full.vercel.app/)
-- 💬 Ask me about **Oracle DBA, OCI**
-- 📫 Reach me at **the.er.alirizvi@gmail.com**
-- 📄 Know my experiences: [Resume](https://drive.google.com/drive/starred)
-- ⚡ Fun fact:  
-  🛠 I build dApps faster than npm can throw errors.  
-  🧵 My code is modular, my demos are polished, and my bugs fear me.  
-  🧪 I treat hackathons like boss battles. Every demo is a final form.  
-  🧑‍🚀 I don’t just build projects—I launch them with animation, branding, and swagger.  
-  🧰 My GitHub is a toolbox, not a graveyard. Every repo has a purpose.  
-  🧠 I don’t chase perfection—I ship impact. My README files are judge-ready. My comments are mentor-friendly.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AliRizvi11&theme=algolia&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 📈 GitHub Contribution Highlights
+### 🧠 GitHub Contribution Highlights
 
-📊 **GitHub Activity Summary**  
+📊 **Activity Summary**  
 - 🟩 Total Contributions (Last 12 Months): **3,722**  
 - 🔥 Longest Streak: **27 days**
 
@@ -54,44 +30,51 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRizvi11&theme=github_dark" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliRizvi11&show_icons=true&locale=en&count_private=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRizvi11&layout=compact&count_private=true&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-### 🤝 Connect with Me
+### 🥇 GSSOC & Hackathon Badges
 
 <p align="center">
-  <a href="https://twitter.com/alirizvi9936" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alirizvi110" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/alisyed11_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/alirizvi9936" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/alirizvi11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/alirizvi11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/GSSOC-2024-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hackathon-Winner-blue?style=for-the-badge&logo=hackerrank" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Oracle-DBA-red?style=for-the-badge&logo=oracle" />
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+### 💼 Projects & Portfolio
+
+- 🔭 Currently working on: [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
+- 👯 Collaborating on: [CivicLedgerProject](https://github.com/Alirizvi11/CivicLedgerProject)
+- 👨‍💻 My Portfolio: [ali-portfolio-full.vercel.app](https://ali-portfolio-full.vercel.app/)
+- 📄 Resume: [Google Drive](https://drive.google.com/drive/starred)
+
+---
+
+### 📬 Connect with Me
 
 <p align="center">
-  <!-- Icons preserved from your original list -->
-  <!-- You can paste your full icon block here -->
+  <a href="https://twitter.com/alirizvi9936"><img src="https://img.shields.io/badge/Twitter-@alirizvi9936-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://linkedin.com/in/alirizvi110"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Rizvi-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/alisyed11_"><img src="https://img.shields.io/badge/Instagram-@alisyed11_-pink?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.hackerrank.com/alirizvi9936"><img src="https://img.shields.io/badge/Hackerrank-Ali%20Rizvi-green?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://www.leetcode.com/alirizvi11"><img src="https://img.shields.io/badge/Leetcode-Ali%20Rizvi-yellow?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Fun Fact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alirizvi11&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirizvi11&show_icons=true&locale=en"https://github-readme-stats.vercel.app/api?    username=alirizvi11&show_icons=true&locale=en&count_private=true
-https://github-readme-stats.vercel.app/api?username=alirizvi11&show_icons=true&locale=en&count_private=true
-" alt="GitHub Stats" />
-</p>
-<p align="Right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRizvi11&theme=dark&hide_border=true" alt="Streaks"/>
-
+🧪 I build dApps faster than npm can throw errors.  
+🧰 My GitHub is a toolbox, not a graveyard.  
+🧠 I don’t chase perfection—I ship impact.  
+🧑‍🚀 Every demo is a final form.  
+🧵 My README files are judge-ready. My comments are 
