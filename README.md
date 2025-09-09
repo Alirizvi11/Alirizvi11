@@ -64,7 +64,8 @@
   <img src="https://img.shields.io/badge/Oracle-DBA-red?style=for-the-badge&logo=oracle" />
 </p>
 ---
----
+
+
 ### 💼 Projects & Portfolio
 
 - 🔭 Currently working on: [AptoTagger](https://github.com/Alirizvi11/aptotagger-project-AptosHackerank)
