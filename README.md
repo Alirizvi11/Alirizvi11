@@ -42,4 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirizvi11&show_icons=true&locale=en" alt="alirizvi11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirizvi11&" alt="alirizvi11" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AliRizvi11&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&fire=DD2727&ring=DD2727&currStreakLabel=🔥%20Current%20Streak&sideLabels=📆%20Longest%20Streak%20|%20Total%20Contributions&sideNums=27%20days%20|%203722" alt="GitHub Streak" />
+</p>
+
